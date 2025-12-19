@@ -230,10 +230,10 @@ Upon completing this curriculum, the learner can:
 
 ## Support
 
-For questions about this curriculum, contact: [Your Contact Info]
+For questions about this curriculum, contact: Conrad Annan
 
 ---
 
 **Version**: 1.0.0
 **Last Updated**: 2024-12-19
-**Author**: TestPilot AI
+**Author**: Conrad Annan
