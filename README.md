@@ -131,7 +131,7 @@ Before starting this curriculum, ensure you have the following installed and con
 
 - [ ] **GitHub Copilot** (PAID SUBSCRIPTION REQUIRED)
   - Install from VS Code Extensions marketplace
-  - Requires GitHub Copilot subscription ($10/month individual or $19/month business)
+  - Requires GitHub Copilot subscription (£8/month individual or £15/month business)
   - Sign up at [github.com/features/copilot](https://github.com/features/copilot)
   - Students and open source maintainers may qualify for free access
 - [ ] **GitHub Copilot Chat**
@@ -171,10 +171,10 @@ Before starting this curriculum, ensure you have the following installed and con
 | VS Code | Free | Open source |
 | Git | Free | Open source |
 | Playwright | Free | Open source |
-| GitHub Copilot | $10-19/month | **Required for full curriculum experience** |
+| GitHub Copilot | £8-15/month | **Required for full curriculum experience** |
 | VS Code Extensions | Free | All recommended extensions are free |
 
-**Total minimum cost**: GitHub Copilot subscription (~$10/month or free for students)
+**Total minimum cost**: GitHub Copilot subscription (~£8/month or free for students)
 
 ---
 
